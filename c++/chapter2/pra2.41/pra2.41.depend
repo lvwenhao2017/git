@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1500946239 source:c:\users\asus-pc\documents\github\git\c++\chapter2\pra2.41\main.cpp
+	<iostream>
+	"SALES_DATA.h"
+
+1500945709 c:\users\asus-pc\documents\github\git\c++\chapter2\pra2.41\sales_data.h
+	<string.h>
+
