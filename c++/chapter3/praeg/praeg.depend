@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501398799 source:c:\users\asus-pc\documents\github\git\c++\chapter3\praeg\main.cpp
+	<iostream>
+	<vector>
+
