@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1501490625 source:c:\users\asus-pc\documents\github\git\c++\chapter6\pra6.9\main.cpp
+	<iostream>
+	"chapter6.h"
+
+1501490599 c:\users\asus-pc\documents\github\git\c++\chapter6\pra6.9\chapter6.h
+
+1501490599 source:c:\users\asus-pc\documents\github\git\c++\chapter6\pra6.9\fact.cc
+	"chapter6.h"
+
