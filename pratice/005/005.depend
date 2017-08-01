@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1501490598 source:c:\users\asus-pc\documents\github\git\pratice\005\main.cpp
+	<iostream>
+
+1501551028 source:c:\users\asus-pc\documents\github\git\pratice\005\sales_data.cc
+	<iostream>
+	<string>
+	"sales_data.h"
+
+1501551015 c:\users\asus-pc\documents\github\git\pratice\005\sales_data.h
+	<string>
+	<iostream>
+
+1501507059 source:c:\users\asus-pc\documents\github\git\pratice\005\sales_data.h
+	<string>
+	<iostream>
+
