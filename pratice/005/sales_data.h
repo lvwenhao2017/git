@@ -12,8 +12,8 @@ public:
     Sales_data( const string &s, unsigned n, double p ):bookNo(s),units_sold(n),revenue(n*p) {}
     Sales_data( const string &s ):bookNo(s) {}
     Sales_data(istream&);
-    string isbn() const { return bookNo; }
-    Sales_data &combine( const Sales_data& );
+    string isbn() const { return bookNo; }//ªÒ»°isbn
+    Sales_data &combine( const Sales_data& ); //
 private:
     double avg_price() const
         { return units_sold ? revenue/units_sold : 0;}

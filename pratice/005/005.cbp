@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="book_data.cc" />
+		<Unit filename="book_data.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="sales_data.cc" />
 		<Unit filename="sales_data.h" />

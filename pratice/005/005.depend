@@ -1,17 +1,33 @@
 # depslib dependency file v1.0
-1501490598 source:c:\users\asus-pc\documents\github\git\pratice\005\main.cpp
+1501566447 source:c:\users\asus-pc\documents\github\git\pratice\005\main.cpp
 	<iostream>
+	<string>
+	<windows.h>
+	"sales_data.h"
+	"book_data.h"
 
-1501551028 source:c:\users\asus-pc\documents\github\git\pratice\005\sales_data.cc
+1501551629 source:c:\users\asus-pc\documents\github\git\pratice\005\sales_data.cc
 	<iostream>
 	<string>
 	"sales_data.h"
 
-1501551015 c:\users\asus-pc\documents\github\git\pratice\005\sales_data.h
+1501557905 c:\users\asus-pc\documents\github\git\pratice\005\sales_data.h
 	<string>
 	<iostream>
 
 1501507059 source:c:\users\asus-pc\documents\github\git\pratice\005\sales_data.h
 	<string>
 	<iostream>
+
+1501566057 source:c:\users\asus-pc\documents\github\git\pratice\005\book_data.cc
+	<iostream>
+	<string>
+	<vector>
+	"book_data.h"
+
+1501565713 c:\users\asus-pc\documents\github\git\pratice\005\book_data.h
+	<iostream>
+	<string>
+	<vector>
+	"sales_data.h"
 
