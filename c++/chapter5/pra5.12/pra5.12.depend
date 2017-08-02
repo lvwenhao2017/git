@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501637084 source:c:\users\asus-pc\documents\github\git\c++\chapter5\pra5.12\main.cpp
+	<iostream>
+	<string>
+	<iterator>
+
