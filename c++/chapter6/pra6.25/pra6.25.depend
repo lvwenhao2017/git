@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501721710 source:c:\users\asus-pc\documents\github\git\c++\chapter6\pra6.25\main.cpp
+	<iostream>
+	<cstdio>
+
