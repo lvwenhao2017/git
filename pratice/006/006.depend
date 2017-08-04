@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501828661 source:c:\users\asus-pc\documents\github\git\pratice\006\main.cpp
+	<iostream>
+	<random>
+
