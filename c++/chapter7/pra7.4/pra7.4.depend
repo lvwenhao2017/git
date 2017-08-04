@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1501819549 source:c:\users\asus-pc\documents\github\git\c++\chapter7\pra7.4\main.cpp
+	<iostream>
+
+1501821033 source:c:\users\asus-pc\documents\github\git\c++\chapter7\pra7.4\person.cc
+	"Person.h"
+	<iostream>
+	<string>
+
+1501821015 c:\users\asus-pc\documents\github\git\c++\chapter7\pra7.4\person.h
+	<string>
+	<iostream>
+
